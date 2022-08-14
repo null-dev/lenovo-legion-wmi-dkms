@@ -8,3 +8,6 @@ DKMS kernel module to enable extra features on Lenovo Legion gaming laptops.
   Requires a reboot to apply changes.
 
   Control using the `kernel.lenovo_legion_wmi.hybrid_graphics` sysctl.
+
+## License
+GPL v2
