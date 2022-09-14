@@ -9,7 +9,7 @@ DKMS kernel module to enable extra features on Lenovo Legion gaming laptops.
 
   Control using the `kernel.lenovo_legion_wmi.hybrid_graphics` sysctl.
   
-## Support
+## Compatibility
 - Only tested on my personal laptop: `Lenovo Legion 5 Pro 16" 165Hz WQXGA Gaming Laptop AMD Ryzen 7-5800H 16GB RAM 1TB SSD RTX 3070 8GB GDDR6` (Model #: `16ACH6H`)
 
 ## License
